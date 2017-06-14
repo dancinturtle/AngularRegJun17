@@ -1,0 +1,11 @@
+.blueBorder {
+    border: 5px solid  blue;
+    padding: 15px;
+    border-radius: 20px;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
